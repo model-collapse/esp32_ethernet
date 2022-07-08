@@ -1,0 +1,16 @@
+{
+	"name": "esp32_ethernet",
+	"version": "0.0.0",
+	"keywords": "ethernet",
+	"description": "API wraper of ethernet chips on ESP32",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/model-collpase/esp32_ethernet.git"
+	},
+	"build": {
+		"includeDir": "."
+	},
+	"license": "MIT",
+	"frameworks": "*",
+	"platforms": "*"
+}
